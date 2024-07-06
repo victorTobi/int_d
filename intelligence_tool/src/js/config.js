@@ -1,0 +1,14 @@
+export const ETH_INFURA_ID = process.env.ETH_INFURA_ID;
+export const ETH_WALLET_ADDRESS = process.env.ETH_WALLET_ADDRESS;
+export const TRON_PRIVATE_KEY = process.env.TRON_PRIVATE_KEY;
+export const TRON_WALLET_ADDRESS = process.env.TRON_WALLET_ADDRESS;
+export const BITCOIN_WALLET_ADDRESS = process.env.BITCOIN_WALLET_ADDRESS;
+export const BITCOIN_PRIVATE_KEY = process.env.BITCOIN_PRIVATE_KEY;
+export const DOGECOIN_WALLET_ADDRESS = process.env.DOGECOIN_WALLET_ADDRESS;
+export const DOGECOIN_PRIVATE_KEY = process.env.DOGECOIN_PRIVATE_KEY;
+export const SOLANA_PRIVATE_KEY = process.env.SOLANA_PRIVATE_KEY;
+export const SOLANA_WALLET_ADDRESS = process.env.SOLANA_WALLET_ADDRESS;
+export const BNB_RPC_URL = process.env.BNB_RPC_URL;
+export const BNB_WALLET_ADDRESS = process.env.BNB_WALLET_ADDRESS;
+export const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
+export const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID;
