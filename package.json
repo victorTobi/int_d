@@ -11,7 +11,7 @@
     "axios": "^0.21.1",
     "web3": "^1.3.6",
     "bitcoinjs-lib": "^5.2.0",
-    "dogecoin": "^1.0.0",
+    "dogecoinjs-lib": "^0.1.1",
     "solana-web3.js": "^0.51.0",
     "bignumber.js": "^9.0.1",
     "dotenv": "^10.0.0",
